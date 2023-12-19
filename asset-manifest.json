@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb54a1e9.css",
+    "main.js": "/static/js/main.397dc1f0.js",
+    "static/media/blog3.jpeg": "/static/media/blog3.8a03c9fa490a0cbc1be4.jpeg",
+    "static/media/blog6.jpg": "/static/media/blog6.98560259f66756c1a7ed.jpg",
+    "static/media/nrw-main.png": "/static/media/nrw-main.d1547369e27cef107dd3.png",
+    "static/media/Group.png": "/static/media/Group.ff00a7fdade1842ffe2e.png",
+    "static/media/water-hand.png": "/static/media/water-hand.44c524dde5311b2972f5.png",
+    "static/media/blog4.jpg": "/static/media/blog4.e1c59c6be306c3770ac3.jpg",
+    "static/media/blog-1.jpg": "/static/media/blog-1.d90bcf11e537de6e27ce.jpg",
+    "static/media/blog5.jpg": "/static/media/blog5.b612df8c325647990e92.jpg",
+    "static/media/Frame4.svg": "/static/media/Frame4.d22a3899b55bd0468b85eb743a21519b.svg",
+    "static/media/blog2.jpeg": "/static/media/blog2.c21da95e4b7ca4dfc2e8.jpeg",
+    "static/media/icon.png": "/static/media/icon.499881517d7ca6433cf8.png",
+    "static/media/Frame2.svg": "/static/media/Frame2.30f267aff8c9f8079f5d9e8ae96c2b85.svg",
+    "static/media/Frame5.svg": "/static/media/Frame5.c7df7140b8aee71a56297bc58c44eca4.svg",
+    "static/media/workingProcess-line.svg": "/static/media/workingProcess-line.49843ce0894455472c5c.svg",
+    "static/media/Frame1.svg": "/static/media/Frame1.762b34cbae9155d370013eed7f111611.svg",
+    "static/media/Vector.svg": "/static/media/Vector.e3a0b0426d9cce554b20.svg",
+    "static/media/about-bg.svg": "/static/media/about-bg.ba142427fe7de07651cd.svg",
+    "static/media/checkGreen.svg": "/static/media/checkGreen.8287a5fea967dd57320994a3298a5053.svg",
+    "static/media/phonecall.svg": "/static/media/phonecall.6636f2424a7c4a2f389cbfaa4bd66755.svg",
+    "static/media/location.svg": "/static/media/location.fce4fc536dc5548c542d651c90653d94.svg",
+    "index.html": "/index.html",
+    "static/media/email.svg": "/static/media/email.999f28e26b6fdb41d40f3e0a7f6b2d81.svg",
+    "main.cb54a1e9.css.map": "/static/css/main.cb54a1e9.css.map",
+    "main.397dc1f0.js.map": "/static/js/main.397dc1f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb54a1e9.css",
+    "static/js/main.397dc1f0.js"
+  ]
+}
